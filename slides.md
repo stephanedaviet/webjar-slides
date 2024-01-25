@@ -1,6 +1,6 @@
 ---
 title: "Webjars : la main dans le pot"
-theme: dracula
+theme: default 
 selectable: true
 remoteAssets: true
 download: true
