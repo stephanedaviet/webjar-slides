@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base cachez-cette-donnee",
-    "export": "slidev export --output cachez-cette-donnee.pdf"
+    "build": "slidev build --base webjar-slides",
+    "export": "slidev export --output webjar-slides.pdf"
   },
   "author": "Stéphane Daviet",
   "license": "ISC",
