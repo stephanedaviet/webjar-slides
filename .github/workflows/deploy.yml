@@ -5,11 +5,9 @@ on:
     branches: [master]
   pull_request:
     branches: [master]
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2.1.5
@@ -21,10 +19,10 @@ jobs:
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
       - name: Install dependencies
         run: |
-          yarn install
+          npm install
       - name: Build application
         run: |
-          yarn build
+          npm build
           cp dist/index.html dist/404.html
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2.3.0
