@@ -1,0 +1,20 @@
+{
+  "name": "webjar-slides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stéphane Daviet",
+  "license": "ISC",
+  "devDependencies": {
+    "@slidev/cli": "^0.46.3",
+    "@slidev/theme-default": "^0.21.2"
+  },
+  "dependencies": {
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-penguin": "^2.1.0",
+    "slidev-theme-vuetiful": "^0.3.1"
+  }
+}

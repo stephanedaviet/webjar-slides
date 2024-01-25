@@ -1,0 +1,89 @@
+Starting Deploy
+Got package info for org.webjars.npm stylesheet-switcher 3.0.0
+
+Determining dependency graph
+
+Deploying these dependencies: svelte#3.20.1
+
+Got package info for org.webjars.npm svelte 3.20.1
+
+Resolving licenses & dependencies for org.webjars.npm svelte 3.20.1
+
+Resolved Licenses: MIT
+
+Converted dependencies to Maven
+
+Converted optional dependencies to Maven
+
+Got the source URL: https://github.com/sveltejs/svelte
+
+Generated POM
+
+Fetched NPM zip
+
+Created NPM WebJar
+
+Created orgwebjars-85043 on Maven Central for org.webjars.npm:svelte:3.20.1
+
+Uploaded artifacts to orgwebjars-85043 to Maven Central for org.webjars.npm:svelte:3.20.1
+
+ 
+ 
+Closed orgwebjars-85043 on Maven Central for org.webjars.npm:svelte:3.20.1
+
+Promoted orgwebjars-85043 on Maven Central for org.webjars.npm:svelte:3.20.1
+
+Deployed!
+
+It will take a few hours for the Maven Central index to update but you should be able to start using the NPM WebJar shortly.
+
+GroupID = org.webjars.npm
+
+ArtifactID = svelte
+
+Version = 3.20.1
+
+            
+
+[[37minfo[0m] a.a.CoordinatedShutdown - Running CoordinatedShutdown with reason [ApplicationStoppedReason]
+
+Resolving licenses & dependencies for org.webjars.npm stylesheet-switcher 3.0.0
+
+Resolved Licenses: MIT
+
+Converted dependencies to Maven
+
+Converted optional dependencies to Maven
+
+Got the source URL: https://github.com/uglow/stylesheet-switcher
+
+Generated POM
+
+Fetched NPM zip
+
+Created NPM WebJar
+
+Created orgwebjars-85044 on Maven Central for org.webjars.npm:stylesheet-switcher:3.0.0
+
+Uploaded artifacts to orgwebjars-85044 to Maven Central for org.webjars.npm:stylesheet-switcher:3.0.0
+
+ 
+Closed orgwebjars-85044 on Maven Central for org.webjars.npm:stylesheet-switcher:3.0.0
+
+Promoted orgwebjars-85044 on Maven Central for org.webjars.npm:stylesheet-switcher:3.0.0
+
+Deployed!
+
+It will take a few hours for the Maven Central index to update but you should be able to start using the NPM WebJar shortly.
+
+GroupID = org.webjars.npm
+
+ArtifactID = stylesheet-switcher
+
+Version = 3.0.0
+
+            
+
+[[37minfo[0m] a.a.CoordinatedShutdown - Running CoordinatedShutdown with reason [ApplicationStoppedReason]
+
+
