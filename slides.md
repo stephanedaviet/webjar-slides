@@ -1,6 +1,6 @@
 ---
 title: "Webjars : la main dans le pot"
-theme: default 
+theme: apple-basic 
 selectable: true
 remoteAssets: true
 download: true
